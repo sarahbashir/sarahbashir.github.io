@@ -13,7 +13,7 @@ For the visualizations in the next section, we created two main data sets. The f
 
 ![](images/dataset2.png)
 
-Our main objective in making visualizations was to visualize trends or topics that people frequently mentioned and expressed an opinion about the World Series on social media. In addition, we wanted to visualize variations in trends based on state, series profession, and time. All visualization associated with this project were generated in Tableau and published on Tableau public. Some examples have been elaborated upon below.
+Our main objective in making visualizations was to visualize trends or topics that people frequently mentioned and expressed an opinion about the World Series on social media. In addition, we wanted to visualize variations in trends based on state, series progression, and time. All visualization associated with this project were generated in Tableau and published on Tableau public. Some examples have been elaborated upon below.
 
 ## Key Visualizations
 
