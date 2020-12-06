@@ -36,6 +36,8 @@ To understand how polarity varied throughout each day of the week that the World
 Above: Twitter sentiment throughout the week in CA. The sentiment graphs for FL and CA are the most telling with each spike in positive sentiment correponsing to a win and each decrease in sentiment corresponding to a loss that day. These two visuals are perhaps the most telling images, directly showing how strongly loyal residents of a state are to their teams. Below: Twitter sentiment throughout the week in FL.
 ![](images/Florida.png)
 
+![](images/word_cloud.png)
+
 ## Conclusion
 
 We were able to draw interesting conclusions through the use of interactive visuals. From the visuals, we gain a clear understanding on the geographic distribution of the tweets and how polarity varies across states. This allows us to facilitate comparisons between states as well, such as observing how California’s average sentiment was more positive than Florida, since the LA team beat Tampa Bay.  We were also able to visualize polarity as a function of time. This gave us a better understanding on people’s attitudes and how they change in response to how the series score progressed after every game. Lastly, we were able to visualize the most frequently used words over the course of the World Series. From all of this information, we can better understand how people on Twitter felt about the World Series, whether it is more negative or positive during a particular time. Ultimately, our conclusions drawn from polarity averages in each state is our most meaningful data.
