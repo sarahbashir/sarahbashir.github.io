@@ -11,6 +11,8 @@ For the visualizations in the next section, we created two main data sets. The f
 
 Our main objective in making visualizations was to visualize trends or topics that people frequently mentioned and expressed an opinion about the World Series on social media. In addition, we wanted to visualize variations in trends based on state, series profession, and time. All visualization associated with this project were generated in Tableau and published on Tableau public. Some examples have been elaborated upon below.
 
+## Key Visualizations
+
 ![](images/across_week_map_polarity.png)
 
 For our map visualization, our public online dashboard has an interactive feature where the user can filter the map’s display by date (between October 20-27). Additionally, the user can hover their cursor over each individual state to show the average tweet polarity in a state, given the filtered conditions. Above is a map displaying the average polarity of tweets about the World Series, across the entire the week of the World Series, as related to each state. 
@@ -26,9 +28,11 @@ Average sentiment on October the 24th also tells an interesting story about the 
 Overall throughout the entire week that the World Series was played, twitter sentiment was generally positive with FL having a higher positive sentiment of about .1 and CA having a lower positive sentiment of .06.
 
 
-![](images/polarity_over_time.png)
+![](images/avg_over_time.png)
 
-To understand how polarity varied throughout each day of the week that the World Series occurred, we created a visualization that plots polarity as a function of time. Above is an area graphic displaying tweet polarity across the United States from October 20-October 27. We know that the Tampa Bay Rays won game 2 and game 4 while the Los Angeles Dodgers won game 1, game 3, game 5, and game 6. On October 22nd, the day after the Rays won game 2, and October 24th, the day the Rays won game 4, there were significant spikes in positive sentiment. There were declines in sentiment for each games the Dodgers one, except for the final game, Game 6. This seems to suggest that, perhaps, overall, twitter users were rooting for the underdog, who in this case was the Rays. 
+To understand how polarity varied throughout each day of the week that the World Series occurred, we created a visualization that plots polarity as a function of time. Addtionally, we added the capability to filter tweet sentiment by state for each day. Above is an area graphic displaying tweet polarity across the United States from October 20-October 27. We know that the Tampa Bay Rays won game 2 and game 4 while the Los Angeles Dodgers won game 1, game 3, game 5, and game 6. On October 22nd, the day after the Rays won game 2, and October 24th, the day the Rays won game 4, there were significant spikes in positive sentiment. There were declines in sentiment for each games the Dodgers one, except for the final game, Game 6. This seems to suggest that, perhaps, overall, twitter users were rooting for the underdog, who in this case was the Rays.
+
+Above: Twitter sentiment throughout the week in CA. The sentiment graphs for FL and CA are the most telling with each spike in positive sentiment correponsing to a win and each decrease in sentiment corresponding to a loss that day. These two visuals are perhaps the most telling images, directly showing how strongly loyal residents of a state are to their teams. Below: Twitter sentiment throughout the week in FL.
 
 ## Conclusion
 
@@ -41,3 +45,5 @@ Access to more seasons or more data would allow us to create even more insightfu
 Furthermore, we can try to optimize the performance of Textblob so we can increase sentiment accuracy. Recall that Textblob fails when there are emojis or slang words. Additionally, Textblob fails when words are spelled incorrectly. We can do additional data cleaning by correcting words through Textblob’s ‘correct()’ package. By doing so, we could get a better representation of public sentiment regarding the World Series per year, based on who is playing.
 
 What are your thoughts on the turnout of the 2020 World Series? What’s next? The 2021 World Series awaits!
+
+Link to Tableau profile:
