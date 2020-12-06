@@ -32,7 +32,9 @@ Overall throughout the entire week that the World Series was played, twitter sen
 
 To understand how polarity varied throughout each day of the week that the World Series occurred, we created a visualization that plots polarity as a function of time. Addtionally, we added the capability to filter tweet sentiment by state for each day. Above is an area graphic displaying tweet polarity across the United States from October 20-October 27. We know that the Tampa Bay Rays won game 2 and game 4 while the Los Angeles Dodgers won game 1, game 3, game 5, and game 6. On October 22nd, the day after the Rays won game 2, and October 24th, the day the Rays won game 4, there were significant spikes in positive sentiment. There were declines in sentiment for each games the Dodgers one, except for the final game, Game 6. This seems to suggest that, perhaps, overall, twitter users were rooting for the underdog, who in this case was the Rays.
 
+![](images/California.png)
 Above: Twitter sentiment throughout the week in CA. The sentiment graphs for FL and CA are the most telling with each spike in positive sentiment correponsing to a win and each decrease in sentiment corresponding to a loss that day. These two visuals are perhaps the most telling images, directly showing how strongly loyal residents of a state are to their teams. Below: Twitter sentiment throughout the week in FL.
+![](images/Florida.png)
 
 ## Conclusion
 
