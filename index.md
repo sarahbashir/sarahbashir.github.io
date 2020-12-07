@@ -59,4 +59,5 @@ What are your thoughts on the turnout of the 2020 World Series? What’s next? T
 
 Links to Tableau profile: https://public.tableau.com/profile/jorge.rodriguez6602?fbclid=IwAR1EhSln9Hng3yO5FdKs1xkGWkYg5X8QkJVJjQJDoCnKtrPNxvMobFlfNc8#!/vizhome/MLBVisualizations/Dashboard1?publish=yes \
 https://public.tableau.com/profile/jorge.rodriguez6602?fbclid=IwAR1zCDFhp0METeCnM5OCP50u3RQo6PQnVk7ddQC0_3tgpe452uUsngoFWPA#!/vizhome/WordCount_16072860338930/Dashboard1?publish=yes \
-Link to github repo with code: https://github.com/jrod2699/CSCI145-MATH166-Final-Project-
+Link to github repo with code: https://github.com/jrod2699/CSCI145-MATH166-Final-Project- \n
+Thanks to Professor Izbicki of Claremont McKenna College for access to Twitter data and help with the project and code! https://izbicki.me
